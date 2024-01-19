@@ -3,6 +3,9 @@
 */
 function login(username, password) {
     //login 처리
+    if(username != null && password != null) {
+        // username 값과 password 값을 체크
+    }
     return true;
 };
 
