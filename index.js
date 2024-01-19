@@ -4,4 +4,8 @@
 function login(username, password) {
     //login 처리
     return true;
-}
+};
+
+function logout(username) {
+    // log out 처리    
+};
